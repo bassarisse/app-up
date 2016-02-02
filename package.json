@@ -1,0 +1,14 @@
+{
+  "name": "app-up",
+  "version": "1.0.0",
+  "engines": {
+    "node": "4.x.x"
+  },
+  "description": "A simple web app bootstrap.",
+  "main": "app.js",
+  "author": "Bruno Assarisse <bruno@assarisse.com.br>",
+  "dependencies": {
+    "app-module-path": "^1.0.4",
+    "merge": "^1.2.0"
+  }
+}
