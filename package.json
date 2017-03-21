@@ -1,8 +1,8 @@
 {
   "name": "app-up",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
-    "node": "4.x.x"
+    "node": ">=4.x.x"
   },
   "description": "A simple web app bootstrap.",
   "main": "app.js",
